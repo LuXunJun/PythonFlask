@@ -269,7 +269,11 @@
       <workItem from="1588341821318" duration="2586000" />
       <workItem from="1590313424050" duration="2000" />
       <workItem from="1593447898107" duration="1067000" />
+<<<<<<< HEAD
       <workItem from="1597254909087" duration="65000" />
+=======
+      <workItem from="1597255142354" duration="25000" />
+>>>>>>> fcc2958... 提交冲突windows
     </task>
     <servers />
   </component>
@@ -277,15 +281,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="331" y="0" key="SettingsEditor" timestamp="1588342718053">
-      <screen x="0" y="0" width="1842" height="1080" />
-    </state>
-    <state x="331" y="0" key="SettingsEditor/0.0.1842.1080@0.0.1842.1080" timestamp="1588342718053" />
-    <state x="570" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1593447898972">
+    <state x="570" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1597255142552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="547" y="315" key="com.intellij.ide.util.TipDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1588341821342" />
-    <state x="570" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593447898972" />
+    <state x="570" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597255142552" />
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1593448647352">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
