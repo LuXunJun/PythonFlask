@@ -1,0 +1,17 @@
+{%  extends 'layout.html' %}
+{% block content %}
+    <p>test</p>
+    <ul>
+    {% for item in data %}
+
+        {% for key,value in item.items() %}
+            {% if value=='JinjaDemo2'  %}
+                <li><p style="color: brown"> {{ key }} : {{ value }}</p></li>
+            {%  else %}
+                <li>{{ key }} : {{ value }}</li>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+    </ul>
+{% endblock %}
+

@@ -1,0 +1,13 @@
+http://127.0.0.1:81/book/search/book/search
+http://127.0.0.1:81/book/search?q=三国演义&page=1
+
+http://127.0.0.1:81/register
+http://127.0.0.1:81/login
+http://127.0.0.1:81/my/gifts
+http://127.0.0.1:81/register?next=%2Fmy%2Fgifts
+
+'pbkdf2:sha256:150000$MTZN5678$28be97eec4bed1c4e5ccf1707112bc9d8f7b0a3598d06f8f592b01a12249ffe7'
+
+request.args.get('next')
+
+{{ url_for('web.register') }}
