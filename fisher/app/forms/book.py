@@ -6,7 +6,7 @@ from wtforms import IntegerField, StringField, Form
 from wtforms.validators import Length, NumberRange, DataRequired
 
 # 测试信息
-# 测试Windows
+# 测试Windows123
 class SearchForm(Form):
     # 这里的名称必须和url地址上的参数名称一致，区分大小写
     q = StringField(validators=[DataRequired(), Length(min=1, max=30)])
